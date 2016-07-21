@@ -1,0 +1,7 @@
+Neural Network : 98%
+Fuzzy KNN : 94.19%
+Logsitic Regression : 84.83%
+Naive Bayes Kmeans Hybrid : 81.92%
+Naive Bayes : 77.07%
+KNN : 68.78%
+Kmeans Clustering : 50.83%
