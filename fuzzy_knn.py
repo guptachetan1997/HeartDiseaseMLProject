@@ -1,11 +1,11 @@
 import matplotlib.pyplot as plt
-from sklearn.neighbors import KNeighborsClassifier 
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.cross_validation import train_test_split
 from sklearn import metrics
 from sklearn.preprocessing import normalize,scale
 from sklearn.cross_validation import cross_val_score
 import numpy as np
-import pandas as pd  
+import pandas as pd
 
 #importing dataset and converting to datasframe
 data = pd.read_csv('heart.csv', header=None)
